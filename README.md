@@ -14,16 +14,3 @@ Check out the live app: [Tax-Chat-AI Demo](https://app--tax-chat-ai-e0b78876.bas
 - Secure and privacy-aware interactions
 
 ## Getting Started
-
-### Prerequisites
-
-- Node.js (version X.X.X or higher)
-- npm or yarn
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Aiswkoch/Tax-Chat-AI.git
-cd Tax-Chat-AI
